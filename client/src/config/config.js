@@ -1,6 +1,6 @@
 const config = {
   development: {
-    backendUrl: "https://varsha-ai-modelling-shirt-designs.onrender.com//api/v1/dalle",
+    backendUrl: "https://varsha-ai-modelling-shirt-designs.onrender.com/api/v1/dalle",
     // backendUrl: "https://varsha-ai-modelling-shirt-designs.onrender.com/",
 
   },
